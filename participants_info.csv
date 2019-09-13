@@ -1,0 +1,29 @@
+id,Diagnosis,"Disorder (1 = yes, 0 = no)",Sex,Age
+1,idiopathic hypersomnia,1,female,25
+2,none  ,0,male,21
+10,none,0,male,40
+14,Restless legs and sleep apnoea,1,male,72
+17,narcolepsy,1,female,47
+21,sleep paralysis,1,female,60
+23,RLS,1,female,70
+27,none,0,male,38
+28,"restless , nocturia - up x3",1,male,58
+29,obstructive sleep apnoea,1,female,51
+31,obstructive sleep apnoea,1,male,25
+32,obstructive sleep apnoea,1,male,68
+34,"RBD, insomnia",1,female,57
+35,RBD,1,male,39
+38,"mild RBD, otherwise normal",0,male,41
+39,restless legs syndrome,1,female,42
+42,mild sleep apnoea,1,male,36
+45,hypersomnia,1,female,50
+48,mild sleep apnoea,1,male,68
+49,mild sleep apnoea,1,male,48
+50,normal sleeper,0,female,56
+51,restless legs and parasomnia,1,female,34
+52,insomnia,1,male,23
+53,sleep apnoea,1,male,35
+56,parasomnia,1,male,37
+57,normal sleeper,0,female,54
+59,normal sleeper,0,male,29
+60,normal sleeper,0,male,32
